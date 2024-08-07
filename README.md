@@ -73,8 +73,6 @@ My blog: [微光的狼窝](https://starcried.github.io/)
 * 见识更广阔的世界。
 * 登顶珠穆朗玛峰。
 
-{% sites only:StarCried %}
-
 <!---
 StarCried/StarCried is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
