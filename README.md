@@ -1,3 +1,5 @@
+Nothing is true. Everything is permitted.
+
 My blog: [微光的狼窝](https://starcried.github.io/)
 
 ## 我是谁
